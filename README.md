@@ -1,7 +1,7 @@
 <!-- profile aesthetic & minimal for kuarnn -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=59D7A6&center=true&vCenter=true&width=340&lines=kuarnn;student+%7C+php+dev;open+source+%7C+minecraft" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=59D7A6&center=true&vCenter=true&width=340&lines=kuarnn;student+%7C+php+dev;open+source+enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    student • php • open source • minecraft
+    student • php • open source
   </samp>
 </p>
 
