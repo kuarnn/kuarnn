@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    estudiante • php • open source • minecraft
+    student • php • open source • minecraft
   </samp>
 </p>
 
